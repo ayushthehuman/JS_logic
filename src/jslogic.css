@@ -1,0 +1,36 @@
+
+.box1{
+    padding: 2px 70px;
+    margin: 7px 70px;
+}
+#name{
+    padding: 2px 6px;
+    margin: 5px 5px;
+    
+}
+.box2{
+    padding: 2px 70px;
+    margin: 2px 70px;
+}
+#age{
+    padding: 2px 6px;
+    margin: 5px 18px;
+
+}
+#weight{
+    padding: 2px 6px;
+    margin: 5px 0px;
+}
+.box3{
+    padding: 2px 70px;
+    margin: 2px 70px;
+}
+
+.btn{
+    padding: 2px 70px;
+    margin: 20px 70px;
+}
+p{
+    padding: 2px 70px;
+    margin: 30px 70px;
+}
